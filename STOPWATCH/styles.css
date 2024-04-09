@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(160, 149, 133);
+
+}
+.stopwatch {
+    text-align: center;
+    font-size: 2em;
+    margin-top: 20%;
+  }
+  #time {
+    margin-bottom: 20px;
+  }
+  button {
+    font-size: 0.6em;
+    padding: 10px;
+    margin: 5px;
+  }
+#startStop{
+    color: rgb(145, 107, 48);
+}
+#reset{
+    color: rgb(145, 107, 48);
+}
+#time{
+    color: rgb(209, 211, 131);
+}
