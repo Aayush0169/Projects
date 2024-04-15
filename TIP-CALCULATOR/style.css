@@ -1,14 +1,20 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: rgb(221, 87, 70);
+    background-color: rgba(221, 88, 70, 0.859);
     margin: 0;
     padding: 20px;
   }
   
+  #top{
+    color: #000000;
+    text-align: center;
+    font-size: 35px;
+    color: rgb(43, 16, 16);
+  }
   #calculator {
     max-width: 300px;
     margin: auto;
-    background: rgb(139, 50, 44);
+    background: rgb(190, 142, 138);
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
