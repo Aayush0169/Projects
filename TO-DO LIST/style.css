@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(151, 231, 225);
+}
+
+#taskList{
+   
+    display: inline-block;
+    
+}
+h1{
+    margin: auto;
+}
