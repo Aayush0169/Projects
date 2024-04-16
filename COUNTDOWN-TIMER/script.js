@@ -1,5 +1,5 @@
 function countdown() {
-    var seconds = 60; // Change this to adjust the starting time (in seconds)
+    var seconds = 120; // Change this to adjust the starting time (in seconds)
     var timer = document.getElementById("timer");
   
     function tick() {
