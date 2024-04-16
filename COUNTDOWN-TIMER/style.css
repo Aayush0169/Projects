@@ -1,13 +1,18 @@
 body{
-    background-color: rgb(161, 195, 152);
+    background-color: rgb(197, 183, 171);
+   
+  
 }
 
 .container {
-    color: rgb(250, 112, 112);
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-style: oblique;
+  
+    color: rgb(19, 24, 4);
+ 
     text-align: center;
-    margin-top: 50px;
+    margin-top: 150px;
+    margin-left: 50px;
+    margin-left: 50px;
+   
   }
   
   #timer {
