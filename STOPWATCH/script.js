@@ -15,6 +15,8 @@ function startStop(){
     running = 0;
     document.getElementById('startStop').textContent = 'Start';
   }
+
+  
 }
 
 function reset(){
